@@ -5,7 +5,7 @@ Aspiring **Python/Django Developer** | Exploring **React & Reducerr** |  Student
 ---
 
 ###  Current Work
-- Building projects in **Django** (E-commerce, News Website, API integrations like Khalti & Amadeus)  
+- Building projects in **Django** (E-commerce, News Website, API integrations like Khalti)  
 - Designing frontends with **React** & **Reducer**  
 
 ### Currently Learning
@@ -19,9 +19,6 @@ Aspiring **Python/Django Developer** | Exploring **React & Reducerr** |  Student
 - React , Reducer 
 -
 ### How to Reach Me
-- Email:**pradipbista204@gmail.com** 
+- Email: **pradipbista204@gmail.com** 
 - LinkedIn: **https://www.linkedin.com/in/pradipbista/**
 
-
----
-⭐️ From [bistapradip](https://github.com/bistapradip)
