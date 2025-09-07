@@ -16,8 +16,8 @@ Aspiring **Python/Django Developer** | Exploring **React & Reducerr** |  Student
 
 ### Ask Me About
 - Django (Models, Views, Templates, REST Framework)    
-- React , Reducer 
--
+- React , Reducer
+  
 ### How to Reach Me
 - Email: **pradipbista204@gmail.com** 
 - LinkedIn: **https://www.linkedin.com/in/pradipbista/**
