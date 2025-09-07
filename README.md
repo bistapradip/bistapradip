@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there  I'm Pradip Bista  
 
-<!--
-**bistapradip/bistapradip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Python/Django Developer** | Exploring **React & Reducerr** |  Student of **CSIT**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Current Work
+- Building projects in **Django** (E-commerce, News Website, API integrations like Khalti & Amadeus)  
+- Designing frontends with **React** & **Reducer**  
+
+### Currently Learning
+- **Full-stack web development** (Django REST + React)  
+
+### Open to Collaborate On
+- Django/React based projects  
+
+### Ask Me About
+- Django (Models, Views, Templates, REST Framework)    
+- React , Reducer 
+-
+### How to Reach Me
+- Email:**pradipbista204@gmail.com** 
+- LinkedIn: **https://www.linkedin.com/in/pradipbista/**
+
+
+---
+⭐️ From [bistapradip](https://github.com/bistapradip)
