@@ -1,4 +1,4 @@
-# Hi there, I'm Pradip Bista 👋 
+# Hi there, I'm Pradip Bista 
 ### Aspiring Full-Stack Developer | CSIT Student | Python & React Enthusiast
 
 <p align="left">
@@ -8,17 +8,17 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 I am a passionate **CSIT student** currently diving deep into the world of web development. My focus is on building robust backends with **Django** and creating interactive, state-driven frontends with **React and Redux**.
 
-- 🔭 **Currently working on:** Advanced E-commerce platforms and News Portals.
-- ⚡ **Specialty:** Integrating payment gateways like **Khalti** and building **REST APIs**.
-- 📚 **Learning:** Mastering the **Django REST Framework (DRF)** + **React** ecosystem.
-- 🤝 **Collaboration:** Open to working on any Django/React-based open-source projects!
+-  **Currently working on:** Advanced E-commerce platforms and News Portals.
+-  **Specialty:** Integrating payment gateways like **Khalti** and building **REST APIs**.
+-  **Learning:** Mastering the **Django REST Framework (DRF)** + **React** ecosystem.
+-  **Collaboration:** Open to working on any Django/React-based open-source projects!
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Backend & Database
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,7 +34,7 @@ I am a passionate **CSIT student** currently diving deep into the world of web d
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradipbista&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipbista&layout=compact&theme=tokyonight" />
@@ -42,20 +42,14 @@ I am a passionate **CSIT student** currently diving deep into the world of web d
 
 ---
 
-## 🛠️ Featured Projects
-- 🛒 **E-commerce Platform:** A full-featured shop with Khalti payment integration.
-- 📰 **News Website:** Dynamic content management using Django Templates and Models.
-- 🌐 **Portfolio:** This repository! (Always evolving)
 
----
-
-## 💬 Ask Me About
+##  Ask Me About
 > **Django:** Models, Class-Based Views, Middleware, and DRF.  
 > **React:** Component Lifecycle, Hooks, and Reducer-based state management.
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 * **LinkedIn:** [linkedin.com/in/pradipbista](https://www.linkedin.com/in/pradipbista/)
 * **Email:** [pradipbista204@gmail.com](mailto:pradipbista204@gmail.com)
 
