@@ -11,8 +11,7 @@
 ##  About Me
 I am a passionate **CSIT student** currently diving deep into the world of web development. My focus is on building robust backends with **Django** and creating interactive, state-driven frontends with **React and Redux**.
 
--  **Currently working on:** Advanced E-commerce platforms and News Portals.
--  **Specialty:** Integrating payment gateways like **Khalti** and building **REST APIs**.
+-  **Specialty:** Building **REST APIs**.
 -  **Learning:** Mastering the **Django REST Framework (DRF)** + **React** ecosystem.
 -  **Collaboration:** Open to working on any Django/React-based open-source projects!
 
